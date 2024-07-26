@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm CHAMINDU MADUSHAN</h1>
-<h3 align="center">A passionate frontend developer from SRI LANKA</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madushanmac&label=Profile%20views&color=0e75b6&style=flat" alt="madushanmac" /> </p>
 
 - 🔭 I’m currently working on **HISTAMATE**
 
-- 🌱 I’m currently learning **React js , Next**
+- 🌱 I’m currently learning **React js , Next,Flutter**
 
 - 👯 I’m looking to collaborate on **E-booking system**
 
@@ -14,6 +14,7 @@
 - 💬 Ask me about **Flutter, Dart, Html ,CSS**
 
 - 📫 How to reach me **madushanm.a.c@gmail.com**
+- 📫 Portfolio **chamindu.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
